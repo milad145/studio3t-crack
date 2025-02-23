@@ -8,9 +8,12 @@ This project is for **educational purposes only**. Unauthorized use of licensed 
 ---
 
 ## 📌 Features
+- **Runs exclusively on Ubuntu**.
 - Automatically patches Studio 3T license validation.
-- Bypasses activation checks on **Ubuntu**.
+- Bypasses activation checks.
 - Provides a renewable trial period.
+- Ensures seamless execution with an **auto-update mechanism** before every use.
+
 
 ---
 
@@ -18,7 +21,7 @@ This project is for **educational purposes only**. Unauthorized use of licensed 
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/studio3t-crack.git
+git clone https://github.com/milad145/studio3t-crack.git
 cd studio3t-crack
 ```
 
@@ -35,13 +38,24 @@ sudo apt install nodejs -y
 ```
 dependencies are just dev-dependencies, so no need to install them.
 
-### **3. Run the Crack Script**
+### **3. Update the Project Before Each Use**
+Before running the script, **always update the project** to ensure it works with the latest Studio 3T version:
+```sh
+git pull origin main
+```
+If you encounter merge conflicts, reset the repository and pull again:
+```sh
+git reset --hard
+git pull origin main
+```
+
+### **4. Run the Crack Script**
 Execute the script to apply the patch:
 ```sh
 npm run start
 ```
 
-### **4. Start Studio 3T**
+### **5. Start Studio 3T**
 After running the script, launch `Studio 3T`. If necessary, restart the application.
 
 ### 🔄 How It Works
