@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+/src/
+/.babelrc
+/gulpfile.babel.js
+/tokenGenerator/
+/test*
