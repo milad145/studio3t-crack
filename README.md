@@ -26,7 +26,7 @@ cd studio3t-crack
 ```
 
 ### **2. Install Dependencies**
-Ensure you have Node.js and npm installed.
+Ensure you have Node.js installed.
 ```sh
 sudo apt update
 sudo apt install -y ca-certificates curl gnupg
@@ -36,7 +36,6 @@ echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.co
 sudo apt update
 sudo apt install nodejs -y
 ```
-dependencies are just dev-dependencies, so no need to install them.
 
 ### **3. Update the Project Before Each Use**
 Before running the script, **always update the project** to ensure it works with the latest Studio 3T version:
@@ -50,7 +49,7 @@ git pull origin main
 ```
 
 ### **4. Run the Crack Script**
-Execute the script to apply the patch:
+Since all dependencies in `package.json` are devDependencies, there's no need to install them just execute the script to apply the patch:
 ```sh
 npm run start
 ```
