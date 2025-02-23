@@ -3,5 +3,6 @@
 /src/
 /.babelrc
 /gulpfile.babel.js
+/dist/app.js.map
 /tokenGenerator/
 /test*
