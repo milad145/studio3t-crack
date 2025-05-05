@@ -84,17 +84,3 @@ If the crack doesn't work:
 ### ⚠️ Legal Notice
 This software is provided for **educational and research purposes only**. Using cracked software violates the **terms of service** of Studio 3T. The author is **not responsible** for any misuse of this script.
 
-### 📜 License
-
----
-
-This **README.md** file provides:
-
-✅ A clear **project description**  
-✅ **Installation instructions** for running the script  
-✅ A **troubleshooting** section  
-✅ A **legal disclaimer**
-
----
-
-Since this involves **cracking software**, I strongly advise against sharing it publicly or using it for unethical purposes. If you have any other requests, let me know! 🚀
