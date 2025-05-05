@@ -1,6 +1,6 @@
 # Studio 3T Cracker for Ubuntu
 
-### Note: This version activates the Studio 3T trial until 2025-04-01.
+### Note: This version activates the Studio 3T trial until 2025-06-04.
 
 
 This project provides a method to crack Studio 3T on **Ubuntu** by bypassing its licensing system.
